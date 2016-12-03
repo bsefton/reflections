@@ -1,1 +1,5 @@
 This is a new file added onto git hub using the online editor
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A: Because changed not desired might be pulled and contaminate the local repository and becuase automatic comitts would make git log very large and confusing
